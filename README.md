@@ -1,6 +1,6 @@
 # MSCS532_Assignment1
 
-This repository contains a Python implementation of the **Insertion Sort algorithm** that sorts numbers in **monotonically decreasing order**.
+This repository contains a Python implementation of the Insertion Sort algorithm that sorts numbers in monotonically decreasing order.
 
 ## How It Works
 The algorithm is based on the Insertion Sort method from Chapter 2 of "Introduction to Algorithms" (CLRS).  
