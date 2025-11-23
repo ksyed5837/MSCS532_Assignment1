@@ -1,5 +1,5 @@
 # MSCS532_Assignment1
-
+# File Assignment 1 Step1 2 3 and 4 contains all the completed steps with the screenshots. 
 This repository contains a Python implementation of the Insertion Sort algorithm that sorts numbers in monotonically decreasing order.
 
 ## How It Works
