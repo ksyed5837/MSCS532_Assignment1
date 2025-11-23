@@ -1,3 +1,5 @@
+# Third commit: added comment
+
 def insertion_sort_desc(arr):
     # Loop through each element starting from index 1
     for i in range(1, len(arr)):
